@@ -10,3 +10,8 @@ body{
     margin:auto;
     padding: 20px;
 }
+h1,h2 {
+    color:purple;
+    border-bottom:2px lavender;
+    padding-bottom: 5px;
+}
