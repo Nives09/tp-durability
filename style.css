@@ -27,3 +27,17 @@ img {
     max-width: max-content;
     border-radius: 10px;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid pink;
+    padding: 10px 15px;
+    text-align:justify;
+}
+th {
+    background-color: cornflowerblue;
+    color: darkblue;
+}
