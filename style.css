@@ -23,3 +23,7 @@ a:hover{
     color: midnightblue;
     text-decoration:cornflowerblue;
 }
+img {
+    max-width: max-content;
+    border-radius: 10px;
+}
