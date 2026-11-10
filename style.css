@@ -1,1 +1,12 @@
 /* Feuille de style de la page « Le poids caché du web » */
+body{
+    font-family:'Times New Roman', Times, serif;
+    color:purple;
+    background-color: plum;
+    line-height: 1.6;
+}
+body{
+    max-width: 800px;
+    margin:auto;
+    padding: 20px;
+}
